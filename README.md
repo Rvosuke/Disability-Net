@@ -1,7 +1,8 @@
 # Disability-Net
 # File Descriptions
-* `main.py` - contains the driver code for the whole project
-* `asap_pool.py` - source code for ASAP pooling operator proposed in the paper
-* `le_conv.py` - source code for LEConv GNN used in the paper
-* `asap_pool_model.py` - a network which uses ASAP pooling as pooling operator
+* `multiple_interpolation.py` - The source code for multiple imputation based on LightGBM described in the Chinese Elderly Disability Dataset section.
+* `NOTEARS.py` - The source code for causal discovery.
+* `Causal-GNN.py` - The source code for Causal-GNN
+* `feature_selection.py` - The source code for mRMR and CIFE.
+* `plot.py` - The source code for plotting ROC, calibration curve and clinical benefit curve
 
