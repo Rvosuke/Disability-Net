@@ -6,5 +6,5 @@
 * `feature_selection.py` - The source code for mRMR and CIFE.
 * `decision.py` - The source code for plotting clinical benefit curve.
 # Dependencies
-# Additional resources
+# Additional Resources
 Available at CausalNex:https://causalnex.readthedocs.io/en/latest/index.html
