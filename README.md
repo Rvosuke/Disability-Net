@@ -7,5 +7,4 @@
 * `decision.py` - The source code for plotting clinical benefit curve
 # Dependencies
 # 其他资源
-Available at PyG:.
 Available at CausalNex:https://causalnex.readthedocs.io/en/latest/index.html
