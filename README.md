@@ -2,9 +2,9 @@
 # File Descriptions
 * `multiple_interpolation.py` - The source code for multiple imputation based on LightGBM described in the Chinese Elderly Disability Dataset section.
 * `NOTEARS.py` - The source code for causal discovery and causal graph post-processing.
-* `Causal-GNN.py` - The source code for Causal-GNN
+* `Causal-GNN.py` - The source code for Causal-GNN.
 * `feature_selection.py` - The source code for mRMR and CIFE.
-* `decision.py` - The source code for plotting clinical benefit curve
+* `decision.py` - The source code for plotting clinical benefit curve.
 # Dependencies
-# 其他资源
+# Additional resources
 Available at CausalNex:https://causalnex.readthedocs.io/en/latest/index.html
