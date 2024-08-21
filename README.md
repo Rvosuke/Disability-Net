@@ -5,18 +5,11 @@
 ![GitHub issues](https://img.shields.io/github/issues/Rvosuke/Disability-Net)
 ![GitHub license](https://img.shields.io/github/license/Rvosuke/Disability-Net)
 
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [File Descriptions](#file-descriptions)
-- [Dependencies](#dependencies)
-- [Getting Started](#getting-started)
-- [Data Availability](#data-availability)
-- [Additional Resources](#additional-resources)
-- [Publication Status](#publication-status)
-
 ## 🔍 Project Overview
 
 This project implements a causality-based disability early warning model using longitudinal data. It combines causal discovery techniques with graph neural networks for classification tasks. The model is designed to identify potential disability risks in elderly populations, utilizing advanced machine learning and causal inference methods.
+
+![whole-method-flow](./src/imgs/whole-method-flow.JPG)
 
 ## 📁 File Descriptions
 
