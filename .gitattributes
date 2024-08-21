@@ -1,0 +1,10 @@
+# 将所有 .html 文件标记为文档
+*.html linguist-documentation
+
+# 确保 .py 文件被视为 Python 代码
+*.py linguist-language=Python
+
+# 如果有其他你不想被计入语言统计的文件类型，可以类似地添加
+# 例如：
+# *.js linguist-vendored
+# *.css linguist-vendored
